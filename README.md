@@ -25,3 +25,12 @@ $ pip install -q tensorflow-datasets
 $ pip install -q git+https://github.com/tensorflow/docs
 $ pip install -r requirements.txt
 ```
+
+```sh
+│   main_augmentation.py
+│   README.md
+│   requirements.txt
+│
+└───src
+        module_aumentation.py
+```
